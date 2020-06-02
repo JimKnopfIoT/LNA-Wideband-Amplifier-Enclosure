@@ -9,6 +9,6 @@ Requirements:
 * Filament of your choice
 
 ## View
-![Example](Wideband2b-iso1.jpg)
-![Example](Wideband2-iso1.jpg)
-![Example](Wideband3-iso1.jpg)
+<img src="Wideband2b-iso1.jpg" width="500" align="center"> 
+<img src="Wideband2-iso1.jpg" width="500" align="center"> 
+<img src="Wideband3-iso1.jpg" width="500" align="center"> 
